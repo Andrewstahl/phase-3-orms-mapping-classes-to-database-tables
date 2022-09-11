@@ -1,7 +1,8 @@
 #!/usr/bin/env ruby 
 
-require 'pry'
-require_relative '../config/environment'
+require 'pry';
+require_relative '../config/environment.rb';
 
 binding.pry
 "pls"
+# /Users/andrew/Development/phase-3/phase-3-orms-mapping-classes-to-database-tables/config/environment.rb
